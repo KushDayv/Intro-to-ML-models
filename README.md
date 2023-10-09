@@ -4,7 +4,7 @@
 
 -> This is the work flow:
 
-1.Importing the raw data set from a git hub repo, and printing it out to see how it appears. 
+ 1.Importing the raw data set from a git hub repo, and printing it out to see how it appears. 
 
 2. Splitting the data set into the X and Y ,,,to rep the axis.
 
