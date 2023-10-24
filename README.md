@@ -31,3 +31,11 @@
 6. A comparison of the two models.
 
 7. Representing the output using scatter points. 
+
+
+
+Added a model that that can be used to predict the road accident severity.
+
+The model uses linear regression.
+
+
