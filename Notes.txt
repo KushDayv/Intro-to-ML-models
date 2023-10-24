@@ -6,3 +6,4 @@ Required:
 ->Provide an example of using the model to predict accident severity for a hypothetical set of independent variables.
 
 ->Explain how the model can be of help to the traffic accident analysis and prevention. 
+
