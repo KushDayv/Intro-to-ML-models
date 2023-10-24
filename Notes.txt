@@ -1,0 +1,8 @@
+Required:
+
+-> Create a linear regression model that will be used to analyze the road accident severity.
+->specify the dependent variable(The one that you want to predict) & the independet variable (the factors that influence the accident severity)
+
+->Provide an example of using the model to predict accident severity for a hypothetical set of independent variables.
+
+->Explain how the model can be of help to the traffic accident analysis and prevention. 
